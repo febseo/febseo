@@ -43,3 +43,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febseo&show_icons=true&locale=en&layout=compact" alt="febseo" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
+
+<br><br><br><br><br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{https://github.com/febseo})
