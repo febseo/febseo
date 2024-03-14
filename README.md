@@ -6,7 +6,6 @@
   
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -25,7 +24,7 @@
 
 
 
-### Connect with me:
+### ♾️ Connect with me
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
