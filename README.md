@@ -1,7 +1,8 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=H%20e%20l%20l%20o%20%20%20W%20o%20r%20l%20d!&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
-<h1 align="left">Hi 👋, I'm YoonSeoyeon</h1>
+<h1>Hi 👋, I'm YoonSeoyeon</h1>
 <br>
 
 ### 🙋 I'm Seoyeon, Fullstack developer. 
@@ -48,7 +49,8 @@
 
 <br><br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
 
 <br>
 
