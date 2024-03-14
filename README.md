@@ -40,10 +40,12 @@
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
 <br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febseo&show_icons=true&locale=en&layout=compact" alt="febseo" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
 
 <br><br><br><br><br><br>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
+
+
