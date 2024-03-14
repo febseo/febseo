@@ -32,8 +32,8 @@
 
 [website]: http://febseo.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ
+[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febseo&show_icons=true&locale=en&layout=compact" alt="febseo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febseo&show_icons=true&locale=en&layout=compact" alt="febseo" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
