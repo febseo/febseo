@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm YoonSeoyeon</h1>
-<h3 align="left">Welcome to my page! I'm Seoyeon, Fullstack developer.</h3>
+<h3 align="left">Welcome to my page! </h3>  
+  I'm Seoyeon, Fullstack developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febseo&label=Profile%20views&color=0e75b6&style=flat" alt="febseo" /> </p>
 
