@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:ca848a,100:ffbe98&height=300&section=header&text=Hello%World!&fontSize=60&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=H%20e%20l%20l%20o%20%20%20W%20o%20r%20l%20d!&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
 <h1 align="left">Hi 👋, I'm YoonSeoyeon</h1>
