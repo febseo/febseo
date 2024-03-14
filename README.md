@@ -4,11 +4,7 @@
 <h1 align="left">Hi 👋, I'm YoonSeoyeon</h1>
 <h3 align="left">Welcome to my page! I'm Seoyeon, Fullstack developer.</h3>  
   
-
-
-<p align="left">
-</p>
-
+<br><br><br>
 
 ### 🛠 Languages and Tools
 <p>
@@ -31,10 +27,7 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=#fff"/>&nbsp;
 </p>
     
-
-<br>
-
-
+<br><br><br>
 
 ### ♾️ Connect with me
 
@@ -46,6 +39,7 @@
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
+<br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febseo&show_icons=true&locale=en&layout=compact" alt="febseo" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" /></p>
