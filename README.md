@@ -34,6 +34,18 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
 </p>
+
+<br>
+
+### ⛺ Experiences
+<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+
+<br>
+
+### 🎓 Education
+<p>광운대학교 수학과 심화전공  |  2020.03 ~ </p>
+
+
     
 <br>
 
