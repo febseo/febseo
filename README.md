@@ -9,15 +9,21 @@
 Hi 👋, I'm YoonSeoyeon
 
 </h1>
-
+<br>
 
 ### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 윤서연입니다. <br>
-🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
-🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
-🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
+#### 지속적인 성장 추구
+- 호기심과 학습 의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다. 
+- 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다.
+- 이를 통해 학습한 다양한 지식을 Notion에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다.
+#### 성실함과 책임감
+- 프로젝트 초기에는 팀원들과 함께 모여 프로젝트 목표와 일정을 명확히 이해하고, 각자의 역할과 책임을 확실히 정하였습니다.
+- 팀원 간의 소통을 원활하게 하기 위해 정기적인 회의를 진행하고, 업무 상황을 수시로 공유하였습니다. 
+- 특히, 어려움을 겪는 팀원들에게는 지속적인 지원과 피드백을 제공하여 문제를 해결할 수 있도록 도왔습니다.
+- 문제 발생 시 즉각적으로 대응하여 해결책을 모색하고, 프로젝트 일정 및 목표 달성을 위해 필요한 조치를 취했습니다.
+- 이렇듯 항상 목표 달성을 위해 노력하고, 팀과의 협업을 통해 함께 성장하는 과정을 즐기며 임했습니다.
 
-<br>
+<br><br>
 
 ### 🛠 Languages and Tools
 <p>
@@ -40,26 +46,27 @@ Hi 👋, I'm YoonSeoyeon
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
 </p>
 
-<br>
+<br><br>
 
 ### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+- 2021.07 ~ 2023.08  |  초,중,고 수학 튜터
+- 2023.10 ~ 2024.03  |  NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자
 
-<br>
+<br><br>
 
 ### 🎓 Education
-<p>광운대학교 수학과 심화전공  |  2020.03 ~ </p>
+- 광운대학교 수학과 심화전공  |  2020.03 ~ 
 
     
-<br>
+<br><br>
 
 ### ♾️ Connect with me
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff"/> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff"/> 
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff"/>
   </a>
 </p>
 <br><br>
