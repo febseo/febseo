@@ -36,7 +36,7 @@ Hi 👋, I'm YoonSeoyeon
 </p>
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat-square&logo=Java&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/JAVA-0272C1?style=flat-square&logo=Java&logoColor=EA2E30"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion&logoColor=fff"/> 
