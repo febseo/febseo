@@ -2,10 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20syeon's%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
-<h1>Hi 👋, I'm YoonSeoyeon</h1>
+<h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffebseo%2Fhit-counter&count_bg=%23CA848A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-<br>
+
+Hi 👋, I'm YoonSeoyeon
+
+</h1>
+
 
 ### 🙋 I'm Seoyeon, Fullstack developer. 
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 윤서연입니다. <br>
@@ -60,13 +64,13 @@
 </p>
 <br><br>
 
-<a href="https://github.com/febseo/github-readme-stats">
+<a href="https://github.com/febseo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febseo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
-<a href="https://github.com/febseo/github-readme-stats">
+<a href="https://github.com/febseo">
   <img src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/febseo/github-readme-activity-graph">
+<a href="https://github.com/febseo">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=febseo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
