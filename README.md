@@ -45,7 +45,6 @@
 ### 🎓 Education
 <p>광운대학교 수학과 심화전공  |  2020.03 ~ </p>
 
-
     
 <br>
 
@@ -58,24 +57,15 @@
     <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff"/> 
   </a>
 </p>
+<br><br><br><br>
 
-
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
-
-<br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
-
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febseo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=febseo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
