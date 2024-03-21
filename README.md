@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20syeon's%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
 <h1>Hi 👋, I'm YoonSeoyeon</h1>
@@ -50,6 +50,15 @@
 <br>
 
 ### ♾️ Connect with me
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff"/> 
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff"/> 
+  </a>
+</p>
+
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
