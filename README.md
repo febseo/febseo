@@ -69,6 +69,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=febseo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<br><br>
-
-<img src="https://github.com/febseo/febseo/blob/output/github-snake-dark.svg" width="100%">
